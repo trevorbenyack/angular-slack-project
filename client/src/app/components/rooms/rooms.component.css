@@ -1,0 +1,9 @@
+.panel {
+  background-color: #3f0e40;
+  color: white;
+  border-color: darkgray;
+  border-left-style: inset;
+  border-right-style: inset;
+  border-left-width: thin;
+  border-right-width: thin;
+}
